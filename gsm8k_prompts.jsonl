@@ -1,0 +1,20 @@
+{"prompt": [{"role": "user", "content": "What is 12 + 7? Put your final answer in <answer></answer> tags."}], "answer": "19"}
+{"prompt": [{"role": "user", "content": "What is 45 - 18? Put your final answer in <answer></answer> tags."}], "answer": "27"}
+{"prompt": [{"role": "user", "content": "What is 6 * 9? Put your final answer in <answer></answer> tags."}], "answer": "54"}
+{"prompt": [{"role": "user", "content": "What is 144 / 12? Put your final answer in <answer></answer> tags."}], "answer": "12"}
+{"prompt": [{"role": "user", "content": "If a shirt costs $25 and is 20% off, what do you pay? Put your final answer in <answer></answer> tags."}], "answer": "20"}
+{"prompt": [{"role": "user", "content": "What is the sum of the first 5 positive integers? Put your final answer in <answer></answer> tags."}], "answer": "15"}
+{"prompt": [{"role": "user", "content": "A rectangle has length 8 and width 5. What is its area? Put your final answer in <answer></answer> tags."}], "answer": "40"}
+{"prompt": [{"role": "user", "content": "If you have 3 dozen eggs, how many eggs do you have? Put your final answer in <answer></answer> tags."}], "answer": "36"}
+{"prompt": [{"role": "user", "content": "What is 15% of 200? Put your final answer in <answer></answer> tags."}], "answer": "30"}
+{"prompt": [{"role": "user", "content": "A train travels 180 miles in 3 hours. What is its speed in mph? Put your final answer in <answer></answer> tags."}], "answer": "60"}
+{"prompt": [{"role": "user", "content": "What is 2^8? Put your final answer in <answer></answer> tags."}], "answer": "256"}
+{"prompt": [{"role": "user", "content": "If a pizza is cut into 8 slices and you eat 3, what fraction remains? Put your final answer in <answer></answer> tags."}], "answer": "5/8"}
+{"prompt": [{"role": "user", "content": "What is the average of 10, 20, and 30? Put your final answer in <answer></answer> tags."}], "answer": "20"}
+{"prompt": [{"role": "user", "content": "Convert 3/4 to a percentage. Put your final answer in <answer></answer> tags."}], "answer": "75"}
+{"prompt": [{"role": "user", "content": "What is the square root of 169? Put your final answer in <answer></answer> tags."}], "answer": "13"}
+{"prompt": [{"role": "user", "content": "A store sells 5 apples for $3. How much do 20 apples cost? Put your final answer in <answer></answer> tags."}], "answer": "12"}
+{"prompt": [{"role": "user", "content": "What is 7! (7 factorial)? Put your final answer in <answer></answer> tags."}], "answer": "5040"}
+{"prompt": [{"role": "user", "content": "If x + 5 = 12, what is x? Put your final answer in <answer></answer> tags."}], "answer": "7"}
+{"prompt": [{"role": "user", "content": "What is the perimeter of a square with side length 9? Put your final answer in <answer></answer> tags."}], "answer": "36"}
+{"prompt": [{"role": "user", "content": "How many seconds are in 2 hours? Put your final answer in <answer></answer> tags."}], "answer": "7200"}
